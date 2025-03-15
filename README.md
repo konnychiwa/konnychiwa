@@ -1,5 +1,4 @@
 <p><a href="#english">Section in English</a></p>
-<p><a href="#pin">Pinned Repositories</a></p>
 
 # 🌍 Sezione in italiano
 ## Ciao, Io sono Pamoda Angelo Konara
@@ -92,7 +91,6 @@ Here are some technologies and tools I work with:
 
 
 
-<a id="pin"></a>
 
 [JavaScript-url]: https://www.javascript.com/
 [JavaScript.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
