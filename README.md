@@ -14,35 +14,30 @@ Benvenuto sul mio profilo GitHub! Le mie passioni sono lo Sviluppo Web e l'Intel
 Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 
 ### Linguaggi
-- [![JavaScript][JavaScript.js]][JavaScript-url]
-- [![Python][Python.py]][Python-url]
+[![JavaScript][JavaScript.js]][JavaScript-url] [![Python][Python.py]][Python-url]
 
 ### Frontend
-- [![React][React.js]][React-url]
-- [![Next][Next.js]][Next-url]
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
 
 ### Backend
-- [![Node][Node.js]][Node-url]
-- [![Express][Express.js]][Express-url]
+[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url]
 
 ### Database
-- [![MongoDB][MongoDB.com]][MongoDB-url]
+[![MongoDB][MongoDB.com]][MongoDB-url]
 
 ### AI
-- [![Jupyter][Jupyter.com]][Jupyter-url]
-- [![Kaggle][Kaggle.com]][Kaggle-url]
-- [![PyTorch][PyTorch.py]][PyTorch-url]
-- [![FastAI][FastAI.py]][FastAI-url]
+[![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
 
 ### DevOps
-- [![Docker][Docker.com]][Docker-url]
-- [![Git][Git.com]][Git-url]
+[![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
+
+### 3D e Grafica
+
+[![Spline][Spline.com]][Spline-url] [![React Three Fiber][React Three Fiber.com]][React Three Fiber-url]
 
 
 ## ⚡ Passatempo
-- Mi piace la musica e sciare.
+- Mi piace la Musica e Sciare quando capita.
 
 ## 📫 Come contattarmi:
 - LinkedIn: [Pamoda Angelo Konara](https://www.linkedin.com/in/pamoda-angelo-konara/)
@@ -65,34 +60,29 @@ Welcome to my GitHub profile! My passions are Web Development and Artificial Int
 Here are some technologies and tools I work with:
 
 ### Languages
-- [![JavaScript][JavaScript.js]][JavaScript-url]
-- [![Python][Python.py]][Python-url]
+[![JavaScript][JavaScript.js]][JavaScript-url] [![Python][Python.py]][Python-url]
 
 ### Frontend
-- [![React][React.js]][React-url]
-- [![Next][Next.js]][Next-url]
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
 
 ### Backend
-- [![Node][Node.js]][Node-url]
-- [![Express][Express.js]][Express-url]
+[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url]
 
 ### Database
-- [![MongoDB][MongoDB.com]][MongoDB-url]
+[![MongoDB][MongoDB.com]][MongoDB-url]
 
 ### AI
-- [![Jupyter][Jupyter.com]][Jupyter-url]
-- [![Kaggle][Kaggle.com]][Kaggle-url]
-- [![PyTorch][PyTorch.py]][PyTorch-url]
-- [![FastAI][FastAI.py]][FastAI-url]
+[![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
 
 ### DevOps
-- [![Docker][Docker.com]][Docker-url]
-- [![Git][Git.com]][Git-url]
+[![Docker][Docker.com]][Docker-url] [![Git][Git.com]][Git-url]
+
+### 3D and Graphics
+
+[![Spline][Spline.com]][Spline-url] [![React Three Fiber][React Three Fiber.com]][React Three Fiber-url]
 
 ## ⚡ Hobbies
-- I enjoy Music and Skiing.
+- I enjoy Music and Skiing when it happens.
 
 ## 📫 How to reach me:
 - LinkedIn: [Pamoda Angelo Konara](https://www.linkedin.com/in/pamoda-angelo-konara/)
@@ -112,6 +102,10 @@ Here are some technologies and tools I work with:
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Next-url]: https://nextjs.org/
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+[Tailwindcss-url]: https://tailwindcss.com/
+[Tailwind.css]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/ 
+[Bootstrap.css]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 
 
 [Node-url]: https://nodejs.org/
@@ -139,5 +133,8 @@ Here are some technologies and tools I work with:
 [Git-url]: https://git-scm.com/
 [Git.com]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-
+[Spline-url]: https://spline.design/ 
+[Spline.com]: https://img.shields.io/badge/Spline-6C63FF?style=for-the-badge&logo=spline&logoColor=white
+[React Three Fiber-url]: https://docs.pmnd.rs/react-three-fiber/ 
+[React Three Fiber.com]: https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white
 
