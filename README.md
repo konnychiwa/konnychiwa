@@ -6,7 +6,7 @@
 Benvenuto sul mio profilo GitHub! Le mie passioni sono lo Sviluppo Web e l'Intelligenza Artificiale, e amo lavorare su progetti correlati.
 
 ## 🚀 Su di me
-- ⚒️ Sto attualmente cercando lavoro
+- ⚒️ Jr Sviluppatore Software presso Safe Safety Srl
 - 💡 Attualmente sto approfondendo il Machine Learning
 
 ## 🔧 Technologies & Tools
@@ -52,7 +52,7 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 Welcome to my GitHub profile! My passions are Web Development and Artificial Intelligence, and I love working on related projects.
 
 ## 🚀 About Me
-- ⚒️ I’m currently searching for work
+- ⚒️ Jr Software Developer at Safe Safety Srl
 - 💡 I am currently deepening my knowledge of Machine Learning
 
 ## 🔧 Technologies & Tools
