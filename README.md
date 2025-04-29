@@ -20,10 +20,10 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
 
 ### Backend
-[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url]
+[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![FastAPI][FastAPI]][FastAPI-url] 
 
 ### Database
-[![MongoDB][MongoDB.com]][MongoDB-url]
+[![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
 
 ### AI
 [![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
@@ -66,10 +66,10 @@ Here are some technologies and tools I work with:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Bootstrap][Bootstrap.css]][Bootstrap-url] [![Tailwindcss][Tailwind.css]][Tailwindcss-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url]
 
 ### Backend
-[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url]
+[![Node][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![FastAPI][FastAPI]][FastAPI-url] 
 
 ### Database
-[![MongoDB][MongoDB.com]][MongoDB-url]
+[![MongoDB][MongoDB.com]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] 
 
 ### AI
 [![Kaggle][Kaggle.com]][Kaggle-url] [![Jupyter][Jupyter.com]][Jupyter-url] [![PyTorch][PyTorch.py]][PyTorch-url] [![FastAI][FastAI.py]][FastAI-url]
@@ -112,10 +112,14 @@ Here are some technologies and tools I work with:
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Express-url]: https://expressjs.com/
 [Express.js]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com/
+[FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 
 
 [MongoDB-url]: https://www.mongodb.com/
 [MongoDB.com]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+[PostgreSQL]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
 
 
 [PyTorch-url]: https://pytorch.org/
