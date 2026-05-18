@@ -1,7 +1,7 @@
 <p><a href="#english">Section in English</a></p>
 
 # 🌍 Sezione in italiano
-## Ciao, Io sono Pamoda Angelo Konara
+## Ciao👋
 
 Benvenuto sul mio profilo GitHub! Le mie passioni sono lo Sviluppo Web e l'Intelligenza Artificiale, e amo lavorare su progetti correlati.
 
@@ -47,7 +47,7 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 
 <a id="english"></a>
 # 🌍 Section in English
-## Hi, I'm Pamoda Angelo Konara 👋
+## Hi👋
 
 Welcome to my GitHub profile! My passions are Web Development and Artificial Intelligence, and I love working on related projects.
 
