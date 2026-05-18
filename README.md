@@ -39,11 +39,6 @@ Qui sono elencate le tecnologie e gli strumenti con cui lavoro:
 ## ⚡ Passatempo
 - Mi piace la Musica e Sciare quando capita.
 
-## 📫 Come contattarmi:
-- LinkedIn: [Pamoda Angelo Konara](https://www.linkedin.com/in/pamoda-angelo-konara/)
-- Discord: konnychiwa
-- Instagram: [angelo.konara](https://www.instagram.com/angelo.konara/)
-
 
 <a id="english"></a>
 # 🌍 Section in English
@@ -83,11 +78,6 @@ Here are some technologies and tools I work with:
 
 ## ⚡ Hobbies
 - I enjoy Music and Skiing when it happens.
-
-## 📫 How to reach me:
-- LinkedIn: [Pamoda Angelo Konara](https://www.linkedin.com/in/pamoda-angelo-konara/)
-- Discord: konnychiwa
-- Instagram: [angelo.konara](https://www.instagram.com/angelo.konara/)
 
 
 
